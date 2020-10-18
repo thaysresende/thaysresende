@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thaysresende)](https://github.com/thaysresende/github-readme-stats&show_icons=true)
+[![Thays Resende Achucarro](https://github-readme-stats.vercel.app/api?username=thaysresende&show_icons=true&count_private=true)](https://github.com/thaysresende)
 
 <!--
 **thaysresende/thaysresende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
