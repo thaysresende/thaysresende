@@ -1,5 +1,5 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thays-resende-achucarro/)
-/////[<img src="https://img.shields.io/github/followers/thaysresende?label=follow&style=social" height="22" title="Follow me" />](https://github.com/thaysresende) 
+[comment]:<[<img src="https://img.shields.io/github/followers/thaysresende?label=follow&style=social" height="22" title="Follow me" />](https://github.com/thaysresende) >
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:thaysresende24@gmail.com)
 
 <img src="banner_git.png" width="80%" justify-content="center" margin="auto">
