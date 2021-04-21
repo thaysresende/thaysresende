@@ -2,7 +2,7 @@
 [<img src="https://img.shields.io/github/followers/thaysresende?label=follow&style=social" height="22" title="Follow me" />](https://github.com/thaysresende)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:thaysresende24@gmail.com)
 
-[comment]:<<img src="banner_git.png" width="80%" justify-content="center" margin="auto">>
+<!-- <img src="banner_git.png" width="80%" justify-content="center" margin="auto"> -->
 
 Hi there!
 
